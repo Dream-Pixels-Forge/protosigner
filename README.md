@@ -1,6 +1,6 @@
-# Stitch Extension for Qwen CLI
+# Protosigner Extension for Qwen CLI
 
-The Stitch extension for Qwen CLI enables you to interact with the Stitch MCP (Model Context Protocol) server using natural language commands. This makes it easier to manage your design projects and assets within [Stitch](https://stitch.withgoogle.com/), the AI-powered UI/UX design and code generation tool.
+The Protosigner extension bridges the Qwen CLI and the Stitch MCP (Model Context Protocol) server, allowing you to manage design projects using natural language. Streamline your workflow in Stitch—Google’s AI-powered UI/UX tool—by controlling assets and code generation directly from your terminal.
 
 ## ✨ Features
 
