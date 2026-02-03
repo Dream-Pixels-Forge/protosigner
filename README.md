@@ -2,6 +2,9 @@
 
 The Protosigner extension bridges the Qwen CLI and the Stitch MCP (Model Context Protocol) server, allowing you to manage design projects using natural language. Streamline your workflow in Stitch—Google’s AI-powered UI/UX tool—by controlling assets and code generation directly from your terminal.
 
+<img width="1115" height="560" alt="terminal" src="https://github.com/user-attachments/assets/0303c0c7-ef32-4168-88f9-0539af3532b3" />
+
+
 <img width="1480" height="913" alt="stich_protosigner" src="https://github.com/user-attachments/assets/887880a1-9641-4f52-8761-49138f6c915c" />
 
 
