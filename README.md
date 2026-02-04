@@ -142,25 +142,25 @@ Choose one method below based on your needs.
     - **Get Project Details:**
 
         ```
-        /stitch Tell me details about my project 3677573127824787033
+        /stitch Tell me details about my project 6677573127824787033
         ```
 
     - **List Screens:**
 
         ```
-        /stitch Give me all the screens of project 3677573127824787033
+        /stitch Give me all the screens of project 6677573127824787033
         ```
 
     - **Download Assets:**
 
         ```
-        /stitch Download the image of screen 6393b8177be0490f89eb8f2c1e4cfb37
-        /stitch Download the HTML of screen 6393b8177be0490f89eb8f2c1e4cfb37
+        /stitch Download the image of screen 7393b8177be0490f89eb8f2c1e4cfb37
+        /stitch Download the HTML of screen 7393b8177be0490f89eb8f2c1e4cfb37
         ```
 
     - **Generate new Screens:**
 
-        You can generate new screens from text prompt, using Gemini 3 Pro or Gemini 3 Flash (default) models.
+        You can generate new screens from text prompt, using Qwen3, Gemini 3 Pro or Gemini 3 Flash (default) models.
 
         ```
         /stitch Design a mobile app for people who love skiing in the Alps, using Gemini 3 Pro.
